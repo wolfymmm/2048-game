@@ -14,7 +14,7 @@ A fully interactive, responsive, and pixel-perfect implementation of the famous 
 
 ## DEMO
 
-<a href="https://<wolfymmm>.github.io/2048-game/" target="_blank">
+<a href="https://wolfymmm.github.io/2048-game/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-Play_2048-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" />
 </a>
 
